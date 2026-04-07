@@ -1,32 +1,30 @@
 <div align="center">
   <h1>FactWeaver AI</h1>
-  <h3>
-     Weaving Truth into the Fabric of Information.
-  </h3>
+  <h3>Truth-verification engine and knowledge synthesis. Ensuring truth in the age of synthetic information.</h3>
   
   <p>
-    <em>Ensuring <b>Data Integrity</b> in the age of synthetic information.</em>
+    <a href="https://factweaverai.github.io/factweaverai/">Our Homepage</a>
+    <a href="mailto:contact@factweaverai.io">Get In Touch</a>
   </p>
 </div>
 
 ---
 
-### 🕸️ The Core Mission
+### 🚀 Our Vision
 
-At **FactWeaver AI**, we address the most critical challenge of the information age: **The erosion of truth.**
+At **FactWeaver AI**, our core mission is focused on:
+> Truth-verification engine and knowledge synthesis. Ensuring truth in the age of synthetic information.
 
-We build the verification and knowledge-synthesis infrastructure that transforms disparate, unverified data into high-fidelity knowledge graphs. We provide the grounding layer that ensures information is not just shared, but verified, understood, and immutable.
+We build open-source tools and infrastructure to support this vision, fostering a community of collaboration and innovation.
 
 ---
 
-### 🛡️ Our Pillars
+### 🤝 Join the Community
 
-*   **Fact Verification:** Automated, multi-source cross-referencing to validate claims and detect misinformation.
-*   **Knowledge Synthesis:** Building rich, semantic relationships between isolated facts to provide context and depth.
-*   **AI Grounding:** Preventing model hallucinations by providing a solid foundation of verified truth.
+We welcome contributions from everyone. Check out our repositories and get involved!
 
 ---
 
 <div align="center">
-  <small>© 2026 FactWeaver AI. Building the Truth-Verification Layer for the Global Knowledge Economy.</small>
+  <small>© 2026 FactWeaver AI. Built for the Community.</small>
 </div>
