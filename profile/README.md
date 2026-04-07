@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>FactWeaver AI</h1>
+  <h1>factweaverai</h1>
   <h3>Truth-verification engine and knowledge synthesis. Ensuring truth in the age of synthetic information.</h3>
   
   <p>
@@ -15,6 +15,7 @@
 ---
 
 ### 🚀 Our Vision
+
 
 At **FactWeaver AI**, our core mission is focused on:
 > Truth-verification engine and knowledge synthesis. Ensuring truth in the age of synthetic information.
@@ -30,5 +31,5 @@ We welcome contributions from everyone. Check out our repositories and get invol
 ---
 
 <div align="center">
-  <small>© 2026 FactWeaver AI. Built for the Community.</small>
+  <small>© 2026 factweaverai. Built for the Community.</small>
 </div>
