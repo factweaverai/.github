@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/factweaverai/.github/main/assets/logo.png" width="200" height="200" alt="factweaverai logo" />
+  <img src="https://raw.githubusercontent.com/factweaverai/.github/main/assets/factweaver_ai_full_screen_logo.jpeg" width="600" alt="factweaverai logo" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <h3>Truth-verification engine and knowledge synthesis. Ensuring truth in the age of synthetic information.</h3>
   
   <p>
-    <a href="https://factweaverai.github.io/factweaverai/">Our Homepage</a>
+    <a href="https://factweaverai.invariantcontinuum.com/">Our Homepage</a>
     <a href="mailto:contact@factweaverai.io">Get In Touch</a>
   </p>
 </div>
