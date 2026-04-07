@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/factweaverai/.github/main/assets/logo.png" width="200" height="200" alt="factweaverai logo" />
+</div>
+
+<div align="center">
   <h1>FactWeaver AI</h1>
   <h3>Truth-verification engine and knowledge synthesis. Ensuring truth in the age of synthetic information.</h3>
   
